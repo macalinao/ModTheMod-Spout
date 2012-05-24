@@ -1,0 +1,9 @@
+name: ModTheMod
+version: ${project.version}
+description: ${project.description}
+author: AlbireoX
+website: http://www.modthemod.com
+
+main: com.modthemod.mtmspout.ModTheModSpout
+load: startup
+platform: BOTH
