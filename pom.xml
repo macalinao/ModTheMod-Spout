@@ -150,7 +150,7 @@
 				<filtering>true</filtering>
 				<directory>${basedir}/src/main/resources</directory>
 				<includes>
-					<include>spoutplugin.yml</include>
+					<include>properties.yml</include>
 				</includes>
 			</resource>
 		</resources>
