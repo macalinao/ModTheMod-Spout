@@ -226,7 +226,7 @@
 						<configuration>
 							<artifactSet>
 								<includes>
-									<include>com.google.code.gson:gson</include>
+									<include>com.modthemod:mtm-engine</include>
 								</includes>
 							</artifactSet>
 						</configuration>
